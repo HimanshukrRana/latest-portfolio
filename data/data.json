@@ -1,0 +1,104 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Security Services Website",
+        "content": "",
+        "imgurl": "/projectSS/saviorweb.jpg",
+        "githubLink": "https://github.com/HimanshukrRana/Savior-Security",
+        "deployedLink": "https://www.savioursecurity.com",
+        "tech": [
+          {
+            "id": 11,
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "id": 12,
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Crypto Tracker",
+        "content": " The Crypto Tracker website was built using ReactJS, which uses IMDB API to fetch using a search query using user input. reactjs and imdb api to fetch data and display results.",
+        "imgurl": "/projectSS/crypto.jpg",
+        "githubLink": "https://github.com/HimanshukrRana/Crypto-Tracker",
+        "deployedLink": "https://crypto-tracker-hkr.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Covid Tracker",
+        "content": "The Covid Tracker website was built using ReactJS, which uses IMDB API to fetch using a search query using user input. reactjs and imdb api to fetch data and display results.",
+        "imgurl": "/projectSS/covid19.jpg",
+        "githubLink": "https://github.com/HimanshukrRana/Covid19web",
+        "deployedLink": "https://covid19-web-hkr.netlify.app",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Landing Page",
+        "content": "Nexts was used to create the  website. TailwindCSS and Framer motion were used to style the website.",
+        "imgurl": "/projectSS/landingPage.jpg",
+        "githubLink": "https://github.com/HimanshukrRana/Landing-Page-4",
+        "deployedLink": "https://landing-page-m.netlify.app",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Blog",
+        "content": "Blog website that was built using NextJS, TailwindCSS, and Sanity. The website is fully responsive and mobile friendly.",
+        "imgurl": "/projectSS/Blog.jpg",
+        "githubLink": "https://github.com/HimanshukrRana/Blog_sanity",
+        "deployedLink": "https://blog-sanity-hkr.vercel.app",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/sanityio.png"
+          }
+        ]
+      }
+    ]
+  }
+}
+
