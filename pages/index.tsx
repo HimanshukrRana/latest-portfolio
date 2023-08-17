@@ -25,7 +25,7 @@ export default function Home({ data }: any) {
 
       {/* Hero */}
       <section id="hero" className="snap-start">
-        <Hero />
+        <Hero src={""} />
       </section>
 
       {/* About */}
@@ -70,3 +70,4 @@ export async function getStaticProps() {
     },
   };
 }
+
